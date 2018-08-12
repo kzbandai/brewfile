@@ -56,6 +56,7 @@ brew "imagemagick"
 brew "iproute2mac"
 brew "jq"
 brew "kubernetes-cli"
+brew "kubectx", args: ["with-short-names"]
 brew "libiconv"
 brew "m-cli"
 brew "mhash"
