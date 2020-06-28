@@ -9,5 +9,6 @@ brew bundle
 
 ## update
 ```
+rm Brewfile
 brew bundle dump
 ```
